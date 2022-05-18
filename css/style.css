@@ -270,4 +270,10 @@ color:var(--light-color);
     
     align-items: center;
     background-color: #5bcbf0;
+    text-align: center;
+}
+@media(max-width:568) {
+    .pimg1, .pimg2, .pimg3{
+        background-attachment: scroll;
+    }
 }
