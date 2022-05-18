@@ -38,6 +38,7 @@ body, html{
 .pimg4{
     background-image:url("../90simg/tech1.jpeg");
     min-height:100%;
+    display: flex;
 }
 .pimg5{
     background-image:url("../90simg/cyber-security-threats-500x263.jpeg");
